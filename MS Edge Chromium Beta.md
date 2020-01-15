@@ -1,8 +1,10 @@
 ## Overview
 
-MS Edge (Chromium) is still (at the time of writing) in beta stage, a lot of things can be changed and we should consider to check the Browser [when it's in a final form](https://www.theverge.com/2019/11/4/20942038/microsoft-edge-chromium-release-date-new-logo-features).
+MS Chrome ("Edgium") was first introduced in it's first pubclic final version [15/01/2020](https://blogs.windows.com/msedgedev/2020/01/15/upgrading-new-microsoft-edge-79-chromium/amp/).
 
-MS Edge Chromium is [better documented as Chrome](https://docs.microsoft.com/en-us/deployedge/microsoft-edge-policies) even in his unfinished form. The community basically does the entire work here.
+~~MS Edge (Chromium) is still (at the time of writing) in beta stage, a lot of things can be changed and we should consider to check the Browser [when it's in a final form](https://www.theverge.com/2019/11/4/20942038/microsoft-edge-chromium-release-date-new-logo-features)~~
+
+~~MS Edge Chromium is [better documented as the original Chrome](https://docs.microsoft.com/en-us/deployedge/microsoft-edge-policies) even in his unfinished form. The community basically does the entire work here.~~
 
 
 ## Services & Features which are disabled in Chrome
